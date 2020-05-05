@@ -1,1 +1,3 @@
-/_pycache_/
+_pychache_/*
+_pychache_/
+.idea/
